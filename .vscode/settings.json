@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"maxmod.h": "c",
+		"cstring": "c",
+		"xutility": "c",
+		"gba.h": "c",
+		"gba_video.h": "c",
+		"string.h": "c",
+		"start.h": "c"
+	}
+}
