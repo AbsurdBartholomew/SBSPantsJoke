@@ -211,9 +211,9 @@ void ThinkLevel(int level)
 {
 	ThinkSpongeBob();
 	
-	if(keysDown() & KEY_R)
+	/*if(keysDown() & KEY_R)
 	{
 		gSelLevel++;
 		InitLevel(gSelLevel);
-	}
+	}*/
 }

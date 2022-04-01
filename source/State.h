@@ -3,13 +3,6 @@
 
 #include <gba.h>
 
-typedef struct
-{
-	u8 mSFXVolume;
-	u8 mMusicVolume;
-	u8 mControllerMethod;
-} GameParams;
-
 enum
 {
 	e_MENU,
